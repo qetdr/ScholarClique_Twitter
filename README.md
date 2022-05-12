@@ -13,4 +13,4 @@ The present project is a pilot study, meaning that the main aim was to create a 
 
 The Jupyter Notebook file includes both the code necessary to deliver the output as well as a step-by-step guide regaring how to run the analyses, what are pre-requisites, etc. I believe that the notebook includes sufficient documentation and commentary to allow for a self-explanatory replication and development of the current project.
 
-For troubleshooting, ideas, etc, please contact me: drdr@duck.com.
+For troubleshooting, ideas, etc, please contact me at drdr@duck.com.

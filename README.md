@@ -1,4 +1,4 @@
-# Network Science (LTAT.02.011) Spring 2022 Project
+# Researchers, their scientific output, collaboration network metrics, and Twitter use
 ## Title 
 Links between scholars' collaboration network properties, research output, and Twitter usage: a pilot study
 ## Author
